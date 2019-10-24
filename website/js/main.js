@@ -1,4 +1,4 @@
-fetch("signers.json")
+fetch("supporters.json")
   .then(response => response.json())
   .then(json => {
   		var signerslist = document.getElementById("signerslist");
