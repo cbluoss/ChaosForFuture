@@ -1,0 +1,15 @@
+{
+  "short_name": "CFF",
+  "name": "Chaos For Future",
+  "icons": [
+    {
+      "src": "/imgs/favicons/android-icon-192x192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    }
+  ],
+  "start_url": "/index.html",
+  "background_color": "#4CA64A",
+  "display": "minimal-ui",
+  "theme_color": "#4CA64A"
+}
